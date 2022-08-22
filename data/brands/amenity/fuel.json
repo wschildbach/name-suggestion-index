@@ -3359,6 +3359,7 @@
       "displayName": "Petrol Ofisi",
       "id": "petrolofisi-b3d110",
       "locationSet": {"include": ["001"]},
+      "matchNames": ["po"],
       "tags": {
         "amenity": "fuel",
         "brand": "Petrol Ofisi",
