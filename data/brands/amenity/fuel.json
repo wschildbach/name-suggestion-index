@@ -2364,6 +2364,17 @@
       }
     },
     {
+      "displayName": "İpragaz",
+      "id": "ipragaz-ec7588",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "İpragaz",
+        "brand:wikidata": "Q12812962",
+        "name": "İpragaz"
+      }
+    },
+    {
       "displayName": "IPT",
       "id": "ipt-c4bbd1",
       "locationSet": {"include": ["lb"]},
